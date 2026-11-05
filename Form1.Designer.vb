@@ -22,63 +22,41 @@ Partial Class Form1
   'Do not modify it using the code editor.
   <System.Diagnostics.DebuggerStepThrough()> _
   Private Sub InitializeComponent()
-    Me.btnVerifica = New System.Windows.Forms.Button()
-    Me.txtNome = New System.Windows.Forms.TextBox()
-    Me.txtValor = New System.Windows.Forms.TextBox()
-    Me.btnVerificaNumero = New System.Windows.Forms.Button()
+    Me.btnLoopWhile = New System.Windows.Forms.Button()
+    Me.lstDados = New System.Windows.Forms.ListBox()
     Me.SuspendLayout()
     '
-    'btnVerifica
+    'btnLoopWhile
     '
-    Me.btnVerifica.Location = New System.Drawing.Point(12, 53)
-    Me.btnVerifica.Name = "btnVerifica"
-    Me.btnVerifica.Size = New System.Drawing.Size(181, 29)
-    Me.btnVerifica.TabIndex = 0
-    Me.btnVerifica.Text = "Verifica"
-    Me.btnVerifica.UseVisualStyleBackColor = True
+    Me.btnLoopWhile.Location = New System.Drawing.Point(368, 12)
+    Me.btnLoopWhile.Name = "btnLoopWhile"
+    Me.btnLoopWhile.Size = New System.Drawing.Size(145, 41)
+    Me.btnLoopWhile.TabIndex = 0
+    Me.btnLoopWhile.Text = "Loop While"
+    Me.btnLoopWhile.UseVisualStyleBackColor = True
     '
-    'txtNome
+    'lstDados
     '
-    Me.txtNome.Location = New System.Drawing.Point(12, 25)
-    Me.txtNome.Name = "txtNome"
-    Me.txtNome.Size = New System.Drawing.Size(181, 22)
-    Me.txtNome.TabIndex = 1
-    Me.txtNome.Text = "Gabriel"
-    '
-    'txtValor
-    '
-    Me.txtValor.Location = New System.Drawing.Point(12, 107)
-    Me.txtValor.Name = "txtValor"
-    Me.txtValor.Size = New System.Drawing.Size(181, 22)
-    Me.txtValor.TabIndex = 2
-    '
-    'btnVerificaNumero
-    '
-    Me.btnVerificaNumero.Location = New System.Drawing.Point(13, 136)
-    Me.btnVerificaNumero.Name = "btnVerificaNumero"
-    Me.btnVerificaNumero.Size = New System.Drawing.Size(180, 32)
-    Me.btnVerificaNumero.TabIndex = 3
-    Me.btnVerificaNumero.Text = "Verifica Número"
-    Me.btnVerificaNumero.UseVisualStyleBackColor = True
+    Me.lstDados.FormattingEnabled = True
+    Me.lstDados.ItemHeight = 16
+    Me.lstDados.Location = New System.Drawing.Point(0, 0)
+    Me.lstDados.Name = "lstDados"
+    Me.lstDados.Size = New System.Drawing.Size(362, 260)
+    Me.lstDados.TabIndex = 1
     '
     'Form1
     '
     Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
     Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-    Me.ClientSize = New System.Drawing.Size(207, 180)
-    Me.Controls.Add(Me.btnVerificaNumero)
-    Me.Controls.Add(Me.txtValor)
-    Me.Controls.Add(Me.txtNome)
-    Me.Controls.Add(Me.btnVerifica)
+    Me.ClientSize = New System.Drawing.Size(525, 261)
+    Me.Controls.Add(Me.lstDados)
+    Me.Controls.Add(Me.btnLoopWhile)
     Me.Name = "Form1"
     Me.Text = "Form1"
     Me.ResumeLayout(False)
-    Me.PerformLayout()
 
   End Sub
 
-  Friend WithEvents btnVerifica As Button
-  Friend WithEvents txtNome As TextBox
-  Friend WithEvents txtValor As TextBox
-  Friend WithEvents btnVerificaNumero As Button
+  Friend WithEvents btnLoopWhile As Button
+  Friend WithEvents lstDados As ListBox
 End Class

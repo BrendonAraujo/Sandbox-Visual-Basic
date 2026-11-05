@@ -1,0 +1,15 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.exe.config
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\bin\Debug\LoopWhile.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\LoopWhile\obj\Debug\LoopWhile.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\LoopWhile\LoopWhile\bin\Debug\LoopWhile.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\LoopWhile\LoopWhile\obj\Debug\LoopWhile.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\LoopWhile\LoopWhile\obj\Debug\LoopWhile.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\LoopWhile\LoopWhile\obj\Debug\LoopWhile.pdb

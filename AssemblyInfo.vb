@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Comparadores")>
+<Assembly: AssemblyTitle("LoopWhile")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Comparadores")>
+<Assembly: AssemblyProduct("LoopWhile")>
 <Assembly: AssemblyCopyright("Copyright ©  2016")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("3453d21a-efd9-4d25-8670-38e72bd204a0")>
+<Assembly: Guid("a4568c7c-3c89-4fdc-87f6-f13cecf28927")>
 
 ' Version information for an assembly consists of the following four values:
 '
