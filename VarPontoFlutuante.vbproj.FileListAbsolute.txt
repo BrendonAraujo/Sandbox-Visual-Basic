@@ -1,0 +1,15 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.exe.config
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VarPontoFlutuante\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VarPontoFlutuante\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VarPontoFlutuante\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VarPontoFlutuante\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.pdb

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\bin\Debug\AsVariaveis.exe.config
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\bin\Debug\AsVariaveis.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\bin\Debug\AsVariaveis.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\bin\Debug\AsVariaveis.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\AsVariaveis\obj\Debug\AsVariaveis.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\AsVariaveis\AsVariaveis\AsVariaveis\bin\Debug\AsVariaveis.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\AsVariaveis\AsVariaveis\AsVariaveis\obj\Debug\AsVariaveis.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\AsVariaveis\AsVariaveis\AsVariaveis\obj\Debug\AsVariaveis.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\AsVariaveis\AsVariaveis\AsVariaveis\obj\Debug\AsVariaveis.pdb

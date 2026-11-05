@@ -1,0 +1,15 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\bin\Debug\DeclaraVariaveis.exe.config
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\bin\Debug\DeclaraVariaveis.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\bin\Debug\DeclaraVariaveis.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\bin\Debug\DeclaraVariaveis.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DeclaraVariaveis\DeclaraVariaveis\bin\Debug\DeclaraVariaveis.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DeclaraVariaveis\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DeclaraVariaveis\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DeclaraVariaveis\DeclaraVariaveis\obj\Debug\DeclaraVariaveis.pdb
