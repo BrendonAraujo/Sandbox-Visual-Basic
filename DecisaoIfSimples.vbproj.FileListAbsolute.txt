@@ -1,0 +1,15 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\bin\Debug\DecisaoIfSimples.exe.config
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\bin\Debug\DecisaoIfSimples.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\bin\Debug\DecisaoIfSimples.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\bin\Debug\DecisaoIfSimples.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DecisaoIfSimples\DecisaoIfSimples\bin\Debug\DecisaoIfSimples.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DecisaoIfSimples\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DecisaoIfSimples\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\DecisaoIfSimples\DecisaoIfSimples\obj\Debug\DecisaoIfSimples.pdb

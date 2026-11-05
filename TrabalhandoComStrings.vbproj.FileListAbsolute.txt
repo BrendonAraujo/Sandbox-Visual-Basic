@@ -1,0 +1,15 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\bin\Debug\TrabalhandoComStrings.exe.config
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\bin\Debug\TrabalhandoComStrings.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\bin\Debug\TrabalhandoComStrings.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\bin\Debug\TrabalhandoComStrings.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.Form1.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\TrabalhandoComStrings\TrabalhandoComStrings\bin\Debug\TrabalhandoComStrings.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\TrabalhandoComStrings\TrabalhandoComStrings\obj\Debug\TrabalhandoComStrings.pdb
